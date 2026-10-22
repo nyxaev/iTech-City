@@ -1,10 +1,5 @@
 <div align="center">
-
-<!-- Main animated headline -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&height=50&lines=iTech-City;Cidade+Neon+Edition;Dreamcore+Error+Edition" alt="Typing Title" />
-</h1>
-
+  
 <p align="center">
   <strong>An immersive dual-aesthetic digital experience built for exploration.</strong>
 </p>
