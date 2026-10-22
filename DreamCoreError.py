@@ -20,8 +20,6 @@ script) e recarregada na proxima vez que o player abrir.
 
 ATENCAO: nos drops a tela pisca, inverte as cores e mostra uma "tela azul".
 Se isso incomodar, ponha FLASHES = False (ou BLACKOUTS = False) abaixo.
-
-Uso: python cybercity_eq_xp.py [arquivo1 arquivo2 ...]
 """
 import json
 import math
