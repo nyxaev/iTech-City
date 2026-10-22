@@ -4,12 +4,6 @@
   <strong>An immersive dual-aesthetic digital experience built for exploration.</strong>
 </p>
 
-<!-- Badges section -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/nyxaev/iTech-City?style=for-the-badge&color=00F3FF&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/nyxaev/iTech-City?style=for-the-badge&color=FF0055&logo=github" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/nyxaev/iTech-City?style=for-the-badge&color=9900FF" alt="License"/>
-</p>
 
 ---
 
